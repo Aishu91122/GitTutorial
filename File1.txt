@@ -6,3 +6,7 @@ Language
 
 Hyper
 Cybersecurity
+
+Automation
+Roles
+Testing
