@@ -16,4 +16,5 @@ Automation
 Selenium WebDriver
 Playwright Framework
  ts
+test
  javascript
