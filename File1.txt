@@ -12,6 +12,7 @@ Roles
 Testing
 
 playwright 
-Automatation
+Automation
 Selenium WebDriver
 Playwright Framework
+ ts
