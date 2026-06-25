@@ -13,3 +13,5 @@ Testing
 
 playwright 
 Automatation
+Selenium WebDriver
+Playwright Framework
